@@ -1,6 +1,6 @@
-CFLAGS=-Wall -g
+CFLAGS=-Wall -g -DNDEBUG
 
-all: ex15
+all: ex19
 
 clean:
-	rm -f ex15
+	rm -f ex19

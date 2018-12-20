@@ -16,7 +16,7 @@ void test_log_err() {
 }
 
 void test_log_warn() {
-    log_warn("You can safely ignore this.";)
+    log_warn("You can safely ignore this.");
     log_warn("Maybe consider looking at: %s", "/etc/passwd");
 }
 
